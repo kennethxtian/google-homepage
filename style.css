@@ -33,7 +33,7 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: ##333333;
+    color: #333333;
     text-decoration: none;
 }
 
@@ -168,7 +168,7 @@ button:hover {
     float: right;
     font-family: Arial;
     font-size: 13px;
-    color: ##333333;
+    color: #333333;
     top: 502px;
 }
 
@@ -202,3 +202,4 @@ nav ul {
   nav li {
     display: inline;
     margin-left: 25px;
+  }
