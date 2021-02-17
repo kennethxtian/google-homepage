@@ -1,4 +1,4 @@
-This is my first project from the The Odin Project—called Google Homepage. This is a simple homepage web design, but personally, it was tough and takes me a couple of days to finish. I was fun though! I kinda like it! I like the challenge.
+This webpage is my first project from The Odin Project—called Google Homepage. This project is a simple homepage web design, but personally, it was challenging and took me a couple of days to finish. It was fun, though! I kind of like it! I like the challenge.
 
 In this challenge, I learned the following skills:
     Two ways to move a div around on the page,
