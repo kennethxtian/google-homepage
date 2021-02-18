@@ -139,6 +139,8 @@ a#signin:active {
 .button {
     width: 300px;
     height: 4vh;
+    position: absolute;
+    top: 448px;
 }
 
 button {
@@ -154,7 +156,6 @@ button {
     cursor: pointer;
     margin: 2.5px;
     position: relative;
-    bottom: 105px;
 }
 
 button:hover {
@@ -201,7 +202,14 @@ nav ul {
     padding: 5px 0px 5px 40px;
   }
 
-  nav li {
+.a-li {
     display: inline;
     margin-left: 25px;
   }
+
+.b-li {
+    margin-right: 25px;
+    display: inline;
+    position: relative;
+    float: right;
+}
