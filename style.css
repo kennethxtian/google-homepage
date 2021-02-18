@@ -136,6 +136,11 @@ a#signin:active {
     top: 12px;
 }
 
+.button {
+    width: 300px;
+    height: 4vh;
+}
+
 button {
     border: none;
     border-radius: 5px;
@@ -143,15 +148,14 @@ button {
     width: 140px;
     color: #404040;
     background-color:hsl(0, 0%, 98%);
-    text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     cursor: pointer;
     margin: 2.5px;
+    border: 5px solid gray;
     position: relative;
-    top: -105px;
+    bottom: 105px;
 }
 
 button:hover {
