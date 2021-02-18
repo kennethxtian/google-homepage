@@ -42,7 +42,7 @@ a:active {
     text-decoration: none;
 }
 #signin:link {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 #signin:visited {
@@ -151,7 +151,7 @@ button {
     cursor: pointer;
     margin: 2.5px;
     position: relative;
-    top: -103px;
+    top: -105px;
 }
 
 button:hover {
